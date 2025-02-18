@@ -1,6 +1,6 @@
 import React from 'react'
 
-const Person = () => {
+const Player = () => {
 	return (
 		<div className='w-11 h-11 bg-red-400 hover: cursor-pointer'>
 			
@@ -8,4 +8,4 @@ const Person = () => {
 	)
 }
 
-export default Person
+export default Player
